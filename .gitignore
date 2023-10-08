@@ -1,0 +1,16 @@
+.Trash/
+.trash/
+.DS_Store
+
+.idea
+.nuxt
+.temp
+*.local
+*.log
+components.d.ts
+dist
+node_modules
+**/.vitepress/cache/
+
+**/.netlify/*
+**/.netlify/functions-serve/*
